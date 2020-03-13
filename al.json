@@ -1,0 +1,79 @@
+{
+    "message": "Informata për Korona Virus",
+    "world": "Në Botë",
+    "macedonia": "Në Maqedoninë Veriore",
+    "stats": {
+        "total_cases": "Gjithsej raste",
+        "total_deaths": "Gjithsej të vdekur",
+        "recovered": "Gjithsej të shëruar"
+    },
+    "paragraphs": {
+        "first": "Kjo faqe përmban informacionin më të fundit mbi përhapjen e virusit COVID-19, duke mbledhur të dhëna nga faqja e WHO (Organizata Botërore e Shëndetit), si dhe autoritetet tona shëndetësore në nivel qendrorë dhe lokal. Sipas deklaratës së WHO më 11 Mars virusi COVID-19 është shpallur pandemi. Shumica e njerëzve që infektohen përjetojnë sëmundje të butë dhe shërohen, por gjendja mund të jetë më e rëndë për të tjerët.",
+        "symptoms": {
+            "title": "Simptomat:",
+            "text": "Simptomat më të zakonshme të COVID-19 janë ethet, lodhja dhe kollë e thatë. Disa pacientë mund të kenë dhimbje dhe vuajtje, zënie të hundës, rrjedhje në hundë, dhimbje të fytit ose diarre. Këto simptoma janë zakonisht të buta dhe fillojnë gradualisht. Disa njerëz infektohen por nuk shfaqin ndonjë simptomë dhe nuk ndjehen keq. Shumica e njerëzve (rreth 80%) shërohen nga sëmundja pa pasur nevojë për trajtim të veçantë. Rreth 1 nga çdo 6 persona që marrin COVID-19 sëmuren rëndë dhe kanë vështirësi në frymëmarrje. Njerëzit e moshuar dhe ata me probleme mjekësore si presioni i lartë i gjakut, problemet e zemrës ose diabeti, kanë më shumë mundësi të marrin sëmundje serioze. Njerëzit me ethe, kollë dhe vështirësi në frymëmarrje duhet të kërkojnë kujdes mjekësor."
+        },
+        "spread": {
+            "title": "Si përhapet virusi?",
+            "text": "Njerëzit mund të kapin virusin COVID-19 nga të tjerët që e kanë virusin. Sëmundja mund të përhapet nga një person me COVID-19 në tjetër përmes pikave të vogla që dalin nga hunda ose goja të cilat përhapen zakonisht kur person i sëmurë kollitet ose nxjerr ajër. Këto pika lëshohen në tokë dhe në objekte tjera rreth personit. Njerëzit e shëndoshë pastaj e kapin virusin COVID-19 duke prekur këto objekte ose sipërfaqe, dhe më pas duke prekur sytë, hundën ose gojën e tyre. Njerëzit gjithashtu mund të kapin COVID-19 nëse gjatë frymëmarrjes marrin pikat e një personi me COVID-19 i cili i nxjerr ato duke u kollitur apo duke nxjerrë frymë. Kjo është arsyeja pse është e rëndësishme të qëndroni më shumë se 1 metër larg nga një person i sëmurë."
+        },
+        "counter": {
+            "title": "Masat për Parandalim",
+            "desc": "Ruajeni shëndetin tuaj dhe mbroni të tjerët duke bërë kështu:"
+        }
+    },
+    "counter": {
+        "reason_title": "Pse?",
+        "hands": {
+            "title": "Lani duart e juaja sa më shpesh",
+            "desc": "Pastroni rregullisht dhe tërësisht duart tuaja me një larës të bazuar në alkool ose lani ato me sapun dhe ujë.",
+            "reason": "Larja e duarve me sapun dhe ujë, apo me larës të bazuar në alkool i vret virusiet të cilat mund të jenë në duart e juaja."
+        },
+        "distance": {
+            "title": "Mbani distancë nga të tjerët",
+            "desc": "Mbani sëpaku 1 metër distancë ndërmjet jush dhe personat që kolliten apo teshtijnë.",
+            "reason": "Kur dikush kollitet ose teshtin, ata spërkatin pika të vogla të lëngshme nga hunda ose goja e tyre që mund të përmbajnë virus. Nëse jeni shumë afër, mund të merrni pikat me frymë, përfshirë virusin COVID-19 nëse personi që kollitet ka sëmundjen."
+        },
+        "eyes": {
+            "title": "Shmangni prekjen e syve, hundës dhe gojës",
+            "reason": "Duartë prekin shumë vende dhe mund të kapin viruse. Kur infektohen, duartë mund të transferojnë virusin tek sytë, hunda apo goja juaj. Prej aty, virusi hyn në trupin tuaj dhe mund të sëmureni."
+        },
+        "hygiene": {
+            "title": "Praktikoni higjienë të frymëmarrjes",
+            "desc": "Sigurohuni që ju dhe njerëzit përreth jush të ndiqni higjenë të mirë të frymëmarrjes. Kjo do të thotë të mbuloni gojën dhe hundën me bërryl ose faculeta kur kolliteni ose teshtini. Pastaj hidhni menjëherë faculetën e përdorur.",
+            "reason": "Pikat e shpërndajnë virusin. Duke ndjekur higjienë të mirë të frymëmarrjes ju mbroni njerëzit rreth jush nga viruse të ndryshme, duke përfshirë COVID-19."
+        },
+        "breathing": {
+            "title": "Nëse keni ethe, kollë, dhe vështirësi në frymëmarrje, kërkoni kujdes mjeksor sa më shpejtë",
+            "desc": "Qëndroni në shtëpi nëse nuk ndiheni mirë. Nëse keni ethe, kollë dhe vështirësi në frymëmarrje, kërkoni kujdes mjekësor dhe telefononi paraprakisht. Ndiqni udhëzimet e autoritetit tuaj lokal shëndetësor.",
+            "reason": "Autoritetet qendrore dhe lokale do të kenë informacionin më të fundit mbi situatën në zonën tuaj. Thirrja paraprakisht do të lejojë ata t'ju drejtojnë sa më shpejt në institucionin e duhur shëndetësor. Kjo gjithashtu do t'ju mbrojë juve dhe do të ndihmojë në parandalimin e përhapjes së viruseve dhe infeksioneve të tjera."
+        }
+    },
+    "faq": {
+        "title": "Pyetje të shpeshta",
+        "0": {
+            "title": "Sapo u ktheva nga një shtet që ka COVID-19, çka duhet të bëj?",
+            "desc": "Izolohuni vetë duke qëndruar në shtëpi nëse filloni të mos ndjeheni mirë, qoftë edhe me simptoma të buta si dhimbje koke, ethe të shkallës së ulët (37.3 C ose më shumë) dhe hundë të lehtë me rrjedhje, deri sa të shëroheni. Nëse është e domosdoshme për ju që dikush t'ju sjellë furnizime ose të dilni jashtë, p.sh. për të blerë ushqim, atëherë vishni një maskë për të mos infektuar njerëzit e tjerë. Nëse keni ethe, kollë dhe vështirësi në frymëmarrje, kërkoni menjëherë këshillimin mjekësor pasi kjo mund të jetë për shkak të një infeksioni të frymëmarrjes ose një gjendje tjetër serioze. Thirrni paraprakisht institucionet dhe tregoni atyre për ndonjë udhëtim të fundit ose kontakt të fundit me udhëtarë."
+        },
+        "1": {
+            "title": "A janë antibiotikët të dobishëm kundër COVID-19?",
+            "desc": "Jo. Antibiotikët nuk funksionojnë kundër viruseve, ato shërojnë vetëm infeksione bakteriale. COVID-19 shkaktohet nga një virus, kështu që antibiotikët nuk funksionojnë. Antibiotikët nuk duhet të përdoren si një mjet për parandalimin ose trajtimin e COVID-19. Ato duhet të përdoren vetëm siç udhëzohet nga një mjek për të trajtuar një infeksion bakterial."
+        },
+        "2": {
+            "title": "A duhet të mbajë një maskë për të mbrojtur veten?",
+            "desc": "Vishni një maskë vetëm nëse jeni të sëmurë me simptoma COVID-19 (veçanërisht kollitje) ose nëse kujdeseni për dikë që mund të ketë COVID-19. Maskat e fytyrës zakonisht mund të përdoren vetëm një herë. Nëse nuk jeni i sëmurë ose nuk kujdeseni për dikë që është i sëmurë, atëherë po harxhoni një maskë pa nevojë. Ekziston mungesë të maskave në mbarë botën, kështu që Organizata Botërore e Shëndetësisë i nxit njerëzit të përdorin maska sipas nevojës."
+        },
+        "3": {
+            "title": "Sa gjatë është periudha e inkubacionit për COVID-19?",
+            "desc": "„Periudha e inkubacionit“ nënkupton kohën midis kapjes së virusit dhe fillimit të shfaqjes së simptomave të sëmundjes. Sipas llogaritjeve të fundit, periudha e inkubacionit për COVID-19 shkon nga 1-14 ditë, më së shpeshti rreth 5 ditë. Këto llogaritje do të përmisohen nëse kemi të dhëna më të reja."
+        },
+        "4": {
+            "title": "Sa gjatë mbijeton virusi nëpër hapsira?",
+            "desc": "Nuk është e sigurt se sa kohë mbijeton në sipërfaqe virusi që shkakton COVID-19, por duket se sillet si koronavirusët e tjerë. Studimet sugjerojnë që koronaviruset (përfshirë informacionin paraprak për virusin COVID-19) mund të vazhdojnë të qëndrojnë në sipërfaqe për disa orë ose deri në disa ditë. Kjo mund të ndryshojë në kushte të ndryshme (p.sh. lloji i sipërfaqes, temperatura ose lagështia e mjedisit). Nëse mendoni se një sipërfaqe mund të jetë e infektuar, pastrojeni atë me dezinfektues të thjeshtë për të vrarë virusin dhe për të mbrojtur veten dhe të tjerët. Pastroni duart tuaja me një larës të bazuar në alkool ose lani ato me sapun dhe ujë. Shmangni prekjen e syve, gojës ose hundës."
+        },
+        "5": {
+            "title": "A është e sigurtë të marrim paketa nga vende të infektuara?",
+            "desc": "Po. Mundësia e një personi të infektuar që të infektojë mallra tregtare është e ulët dhe rreziku i kapjes së virusit që shkakton COVID-19 nga një paketë që është zhvendosur, transportuar dhe ekspozuar ndaj kushteve dhe temperaturave të ndryshme, është gjithashtu i ulët."
+        }
+    }
+}
